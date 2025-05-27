@@ -1,3 +1,3 @@
 <h2>Todo Application</h2>
 
-This is a Todo Application
+This is a Todo Application where we can create, delete and marked Todo as completed.
